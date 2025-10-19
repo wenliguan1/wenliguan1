@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, name is Wenli and I'm currently studying at Northeastern University combined major in Computer Science and Game Development. My expected Graduation year is 2029.
 <!--
 **wenliguan1/wenliguan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
